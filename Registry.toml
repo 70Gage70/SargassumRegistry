@@ -4,3 +4,4 @@ repo = "https://github.com/70Gage70/SargassumRegistry"
 
 [packages]
 d2143393-64d1-4702-ac44-3f87fb4b2e5f = { name = "SargassumColors", path = "S/SargassumColors" }
+db9ac4ac-0b65-4026-8dbd-2bb7cf4c299a = { name = "SargassumFromAFAI", path = "S/SargassumFromAFAI" }
