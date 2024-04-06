@@ -4,6 +4,8 @@ Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 SargassumBOMB = "b5ee06fe-188d-450a-9f05-8f188668dd15"
 SargassumFromAFAI = "db9ac4ac-0b65-4026-8dbd-2bb7cf4c299a"
+
+["0-0.2"]
 WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
 
 ["0.1.11-0"]
@@ -11,3 +13,7 @@ PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["0.1.8-0.2.1"]
 Scratch = "6c6a2e73-6563-6170-7368-637461726353"
+
+["0.3-0"]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
