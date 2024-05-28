@@ -35,3 +35,6 @@ RemoteFiles = "cbe49d4c-5af1-5b60-bb70-0a60aa018e1b"
 
 ["0.2.2-0"]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+
+["0.5-0"]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
