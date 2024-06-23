@@ -20,3 +20,11 @@ HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
 
 ["0.4-0"]
 SargassumColors = "d2143393-64d1-4702-ac44-3f87fb4b2e5f"
+
+["0.7-0"]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+NativeFileDialog = "e1fe445b-aa65-4df4-81c1-2041507f0fd4"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+PlutoHooks = "0ff47ea0-7a50-410d-8455-4348d5de0774"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
