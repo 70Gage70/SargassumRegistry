@@ -4,7 +4,7 @@ This is a registry for packages in the Julia *Sargassum* ecosystem. The followin
 
 ### [SargassumInterface](https://github.com/70Gage70/SargassumInterface.jl)
 
-A zero-code interface in notebook format for using `SargassumBOMB.jl`.
+A zero-code interface in notebook format for the entire codebase.
 
 ### [SargassumBOMB](https://github.com/70Gage70/SargassumBOMB.jl)
 
