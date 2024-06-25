@@ -17,3 +17,5 @@ Tools for calculating *Sargassum* coverage distributions from AFAI data.
 ### [SargassumColors](https://github.com/70Gage70/SargassumColors.jl)
 
 Plotting utilities.
+
+**Further documentation coming soon.**
