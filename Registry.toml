@@ -3,6 +3,7 @@ uuid = "8ad962eb-8412-4172-b239-479c165d690c"
 repo = "https://github.com/70Gage70/SargassumRegistry"
 
 [packages]
+022a0cfc-64d6-4a4c-8da6-19b349a396b3 = { name = "Sargassum", path = "S/Sargassum" }
 30769374-9730-46b0-8d29-e3d67aca2e88 = { name = "SargassumInterface", path = "S/SargassumInterface" }
 b5ee06fe-188d-450a-9f05-8f188668dd15 = { name = "SargassumBOMB", path = "S/SargassumBOMB" }
 d2143393-64d1-4702-ac44-3f87fb4b2e5f = { name = "SargassumColors", path = "S/SargassumColors" }
