@@ -1,7 +1,13 @@
 [0]
 Reexport = "1.2.2-1"
-SargassumBOMB = "0.7.4-0.7"
 SargassumColors = "0.2.6-0.2"
 SargassumFromAFAI = "0.3.7-0.3"
-SargassumInterface = "0.7.8-0.7"
 julia = "1.10.0-1"
+
+["0-0.1.1"]
+SargassumBOMB = "0.7.4-0.7"
+SargassumInterface = "0.7.8-0.7"
+
+["0.1.2-0"]
+SargassumBOMB = "0.7.5-0.7"
+SargassumInterface = "0.7.9-0.7"
