@@ -1,30 +1,35 @@
 [0]
-Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
-PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
-SargassumBOMB = "b5ee06fe-188d-450a-9f05-8f188668dd15"
-SargassumFromAFAI = "db9ac4ac-0b65-4026-8dbd-2bb7cf4c299a"
 
 ["0-0.2"]
 WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
 
-["0.1.11-0"]
+["0-0.7.13"]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+SargassumBOMB = "b5ee06fe-188d-450a-9f05-8f188668dd15"
+SargassumFromAFAI = "db9ac4ac-0b65-4026-8dbd-2bb7cf4c299a"
+
+["0.1.11-0.7.13"]
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["0.1.8-0.2.1"]
 Scratch = "6c6a2e73-6563-6170-7368-637461726353"
 
-["0.3-0"]
+["0.3-0.7.13"]
 GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
 HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
 
-["0.4-0"]
+["0.4-0.7.13"]
 SargassumColors = "d2143393-64d1-4702-ac44-3f87fb4b2e5f"
 
-["0.7-0"]
+["0.7-0.7.13"]
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 NativeFileDialog = "e1fe445b-aa65-4df4-81c1-2041507f0fd4"
 NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
 PlutoHooks = "0ff47ea0-7a50-410d-8455-4348d5de0774"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+["0.7.14-0"]
+Scratch = "6c6a2e73-6563-6170-7368-637461726353"
